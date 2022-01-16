@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dQ1rhfjUVfSwo8+dPue9xwUDLfqLt1RqCKvSTR9uoe+MN6PVAnDe+XDkrU6cr97yM6ojTtbDVu6EfZtKpYX1Xg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Intel\\Desktop\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Intel\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
